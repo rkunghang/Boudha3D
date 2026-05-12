@@ -1,0 +1,48 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl Cyark_TuDuc
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd Cyark_TuDuc.jpg
+map_Bump Cyark_TuDuc_normal.jpg
+
+newmtl Cyark_TuDuc1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd Cyark_TuDuc1.jpg
+map_Bump Cyark_TuDuc_normal1.jpg
+
+newmtl Cyark_TuDuc2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd Cyark_TuDuc2.jpg
+map_Bump Cyark_TuDuc_normal2.jpg
+
+newmtl Cyark_TuDuc3
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd Cyark_TuDuc3.jpg
+map_Bump Cyark_TuDuc_normal3.jpg
+
